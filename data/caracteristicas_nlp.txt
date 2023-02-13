@@ -1,0 +1,6433 @@
+Abelardo da Hora
+	escultor
+	desenhista
+	ceramista
+	brasileiro
+	homem
+	1900
+
+Abreu e Lima (General)
+	militar
+	político
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1700
+
+Ada Lovelace
+	matemática
+	escritora
+	famoso
+	poeta
+	programadora
+	mulher
+	1800
+
+Adam Smith
+	economista
+	filósofo
+	escocês
+	homem
+	1700
+
+Adele
+	cantora
+	compositora
+	inglesa
+	mulher
+	1950
+
+Adélia Prado
+	escritora
+	poetisa
+	brasileira
+	mulher
+	1900
+
+Adhemar Ferreira da Silva
+	atleta
+	paulista
+	bicampeão
+	homem
+	1900
+
+Adoniran Barbosa
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Aécio Neves
+	político
+	economista
+	brasileiro
+	homem
+	1950
+
+Afrânio Peixoto
+	escritor
+	médico
+	legista
+	professor
+	brasileiro
+	homem
+	1800
+
+Agatha Christie
+	escritora
+	inglesa
+	detetive
+	belga
+	policial
+	mulher
+	1800
+
+Al Capone
+	gângster
+	ítalo-americano
+	criminoso
+	homem
+	1800
+
+Al Pacino
+	ator
+	diretor
+	roteirista
+	americano
+	homem
+	1900
+
+Albert Camus
+	escritor
+	jornalista
+	romancista
+	dramaturgo
+	filósofo
+	argelino
+	homem
+	1900
+
+Albert Einstein
+	físico
+	matemático
+	alemão
+	homem
+	1800
+
+Albert Sabin
+	médico
+	microbiologista
+	pesquisador
+	polonês
+	norte-americano
+	homem
+	1900
+
+Alberto da Veiga Guignard
+	pintor
+	desenhista
+	ilustrador
+	brasileiro
+	homem
+	1800
+
+Alberto de Oliveira
+	poeta
+	professor
+	brasileiro
+	homem
+	1800
+
+Alceu Amoroso Lima
+	escritor
+	filósofo
+	professor
+	brasileiro
+	homem
+	1800
+
+Alceu Valença
+	cantor
+	compositor
+	cineasta
+	brasileiro
+	homem
+	1900
+
+Aldemir Martins
+	artista
+	brasileiro
+	pintor
+	ilustrador
+	escultor
+	homem
+	1900
+
+Aleister Crowley
+	mago
+	poeta
+	ocultista
+	escritor
+	homem
+	1800
+
+Alessandro Volta
+	físico
+	italiano
+	inventor
+	homem
+	1700
+
+Alexander Fleming
+	médico
+	bacteriologista
+	escocês
+	homem
+	1800
+
+Alexander Graham Bell
+	cientista
+	escocês
+	inventor
+	fundador
+	homem
+	1800
+
+Alexandre Dumas
+	romancista
+	dramaturgo
+	francês
+	autor
+	homem
+	1800
+
+Alexandre Herculano
+	escritor
+	historiador
+	jornalista
+	português
+	homem
+	1800
+
+Alexandre Orion
+	artista
+	fotógrafo
+	brasileiro
+	homem
+	1950
+
+Alexis de Tocqueville
+	pensador
+	político
+	francês
+	homem
+	1800
+
+Alfred Rosenberg
+	político
+	escritor
+	alemão
+	homem
+	1800
+
+Alice Ruiz
+	poetisa
+	compositora
+	brasileira
+	mulher
+	1900
+
+Almeida Garrett
+	poeta
+	prosador
+	dramaturgo
+	português
+	romântico
+	homem
+	1700
+
+Almeida Júnior
+	pintor
+	desenhista
+	brasileiro
+	homem
+	1800
+
+Aloísio Magalhães
+	artista
+	designer
+	ativista
+	brasileiro
+	homem
+	1900
+
+Alok
+	dj
+	produtor
+	brasileira
+	homem
+	1950
+
+Álvares de Azevedo
+	poeta
+	escritor
+	brasileira
+	homem
+	1800
+
+Álvaro Lins
+	jornalista
+	professor
+	escritor
+	editor
+	advogado
+	diplomata
+	brasileiro
+	homem
+	1900
+
+Amedeo Modigliani
+	pintor
+	escultor
+	italiano
+	príncipe
+	famoso
+	homem
+	1800
+
+Américo Vespúcio
+	mercador
+	navegador
+	cartógrafo
+	italiano
+	homem
+	1400
+
+Amy Winehouse
+	cantora
+	compositora
+	britânica
+	mulher
+	1950
+
+Amyr Klink
+	navegador
+	explorador
+	escritor
+	brasileiro
+	homem
+	1950
+
+Ana Maria Braga
+	apresentadora
+	jornalista
+	brasileira
+	mulher
+	1900
+
+Ana Maria Machado
+	escritora
+	jornalista
+	brasileira
+	mulher
+	1900
+
+André Abujamra
+	músico
+	ator
+	produtor
+	diretor
+	brasileiro
+	homem
+	1950
+
+André Breton
+	escritor
+	francês
+	poeta
+	líder
+	homem
+	1800
+
+André Rebouças
+	engenheiro
+	professor
+	abolicionista
+	monarquista
+	brasileiro
+	homem
+	1800
+
+André-Marie Ampère
+	físico
+	cientista
+	matemático
+	francês
+	homem
+	1700
+
+Andy Warhol
+	pintor
+	cineasta
+	norte-americano
+	artista
+	homem
+	1900
+
+Angelina Jolie
+	atriz
+	cineasta
+	estadunidense
+	hollywoodiano
+	mulher
+	1950
+
+Angelo Agostini
+	ilustrador
+	caricaturista
+	desenhista
+	pintor
+	italiano
+	artista
+	homem
+	1800
+
+Aníbal Beça
+	poeta
+	jornalista
+	compositor
+	brasileiro
+	homem
+	1900
+
+Aníbal Machado
+	escritor
+	professor
+	brasileiro
+	homem
+	1800
+
+Ann-Margret
+	atriz
+	cantora
+	dançarina
+	sueca
+	mulher
+	1900
+
+Antero de Quental
+	poeta
+	filósofo
+	português
+	homem
+	1800
+
+Anthony Giddens
+	sociólogo
+	conferencista
+	professor
+	britânico
+	homem
+	1900
+
+Anthony Hopkins
+	ator
+	britânico
+	americano
+	homem
+	1900
+
+Antoine de Saint-Exupéry
+	escritor
+	ilustrador
+	piloto
+	francês
+	autor
+	homem
+	1900
+
+Antoni Gaudí
+	arquiteto
+	modernista
+	espanhola
+	homem
+	1800
+
+António Botto
+	poeta
+	dramaturgo
+	português
+	homem
+	1800
+
+Antonio Candido
+	sociólogo
+	professor
+	brasileiro
+	homem
+	1900
+
+Antônio Carlos Jobim
+	compositor
+	cantor
+	pianista
+	violonista
+	brasileiro
+	homem
+	1900
+
+Antônio Carneiro Leão
+	educador
+	escritor
+	brasileiro
+	homem
+	1800
+
+Antônio da Silva Jardim
+	ativista
+	político
+	brasileiro
+	homem
+	1800
+
+Antônio Ermírio de Moraes
+	empresário
+	engenheiro
+	brasileiro
+	homem
+	1900
+
+Antônio Fagundes
+	ator
+	diretor
+	produtor
+	brasileiro
+	homem
+	1900
+
+Antonio Gramsci
+	ativista
+	político
+	jornalista
+	italiano
+	homem
+	1800
+
+António José de Almeida
+	político
+	escritor
+	português
+	homem
+	1800
+
+Antonio Salieri
+	músico
+	italiano
+	compositor
+	homem
+	1700
+
+Antonio Vivaldi
+	compositor
+	músico
+	italiano
+	homem
+	1600
+
+Aretha Franklin
+	cantora
+	norte-americana
+	rainha
+	mulher
+	1900
+
+Ariana Grande
+	famosa
+	cantora
+	compositora
+	atriz
+	norte-americana
+	mulher
+	1950
+
+Arnaldo Antunes
+	músico
+	compositor
+	poeta
+	artista
+	homem
+	1950
+
+Arnaldo Baptista
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Arnold Schwarzenegger
+	ator
+	político
+	empresário
+	austro-americano
+	homem
+	1900
+
+Arquimedes
+	físico
+	matemático
+	inventor
+	grego
+	homem
+
+Arthur Aguiar
+	ator
+	cantor
+	compositor
+	brasileiro
+	homem
+	1950
+
+Arthur Conan Doyle
+	escritor
+	médico
+	britânico
+	autor
+	imortal
+	detetive
+	criador
+	homem
+	1800
+
+Ary Barroso
+	compositor
+	brasileiro
+	autor
+	homem
+	1900
+
+Ascenso Ferreira
+	poeta
+	brasileiro
+	folclorista
+	pernambucano
+	homem
+	1800
+
+Ashton Kutcher
+	ator
+	produtor
+	norte-americano
+	homem
+	1950
+
+Ataulfo Alves
+	compositor
+	cantor
+	brasileiro
+	autor
+	homem
+	1900
+
+Auguste Comte
+	filósofo
+	francês
+	fundador
+	homem
+	1700
+
+Augusto Cury
+	médico
+	psiquiatra
+	professor
+	escritor
+	brasileiro
+	famoso
+	homem
+	1950
+
+Augusto de Campos
+	poeta
+	tradutor
+	brasileiro
+	homem
+	1900
+
+Augusto Pinochet
+	ditador
+	chileno
+	militar
+	presidente
+	homem
+	1900
+
+B.B. King
+	guitarrista
+	cantor
+	compositor
+	norte-americano
+	homem
+	1900
+
+Balzac
+	escritor
+	francês
+	retratista
+	homem
+	1700
+
+Barão de Coubertin
+	barão
+	historiador
+	pedagogo
+	francês
+	homem
+	1800
+
+Barão de Lucena
+	barão
+	político
+	brasileiro
+	homem
+	1800
+
+Barão de Mauá
+	barão
+	político
+	brasileiro
+	homem
+	1800
+
+Barão do Rio Branco
+	barão
+	diplomata
+	advogado
+	historiador
+	político
+	brasileiro
+	homem
+	1800
+
+Barbra Streisand
+	cantora
+	atriz
+	norte-americana
+	mulher
+	1900
+
+Bartolomeu de Gusmão
+	sacerdote
+	inventor
+	brasileiro
+	homem
+	1600
+
+Baruch de Espinosa
+	filósofo
+	holandês
+	racionalista
+	homem
+	1600
+
+Basílio da Gama
+	poeta
+	brasileiro
+	autor
+	homem
+	1700
+
+Beatriz Milhazes
+	pintora
+	ilustradora
+	professora
+	brasileira
+	mulher
+
+bell hooks
+	pensadora
+	professora
+	escritora
+	ativista
+	norte-americana
+	feminista
+	mulher
+	1950
+
+Belo
+	cantor
+	compositor
+	brasileiro
+	homem
+	1950
+
+Ben Carson
+	neurocirurgião
+	psicólogo
+	professor
+	escritor
+	norte-americano
+	secretário
+	homem
+	1950
+
+Benedito Calixto
+	pintor
+	historiador
+	brasileiro
+	homem
+	1800
+
+Benjamin Constant
+	militar
+	político
+	professor
+	brasileiro
+	homem
+	1800
+
+Benjamin Franklin
+	diplomata
+	escritor
+	jornalista
+	filósofo
+	político
+	cientista
+	norte-americano
+	homem
+	1700
+
+Bento Gonçalves da Silva
+	militar
+	revolucionário
+	brasileiro
+	homem
+	1700
+
+Bento Teixeira
+	poeta
+	luso-brasileiro
+	autor
+	brasileiro
+	homem
+
+Bernardo Bertolucci
+	cineasta
+	italiano
+	autor
+	homem
+	1900
+
+Bernardo Guimarães
+	romancista
+	poeta
+	brasileiro
+	homem
+	1800
+
+Bernini
+	escultor
+	arquiteto
+	pintor
+	italiano
+	homem
+	1500
+
+Bertolt Brecht
+	dramaturgo
+	romancista
+	poeta
+	alemão
+	criador
+	anti-aristotélico
+	homem
+	1800
+
+Bertrand Russell
+	influente
+	filósofo
+	britânico
+	homem
+	1800
+
+Betinho
+	sociólogo
+	brasileiro
+	ativista
+	homem
+	1900
+
+Beyoncé
+	cantora
+	compositora
+	produtora
+	atriz
+	norte-americana
+	mulher
+	1950
+
+Bhagavan Sri Sathya Sai Baba
+	guru
+	indiano
+	líder
+	filantropo
+	educador
+	homem
+	1900
+
+Bhaskara
+	matemático
+	astrólogo
+	astrônomo
+	professor
+	indiano
+	homem
+
+Biafra
+	cantor
+	brasileiro
+	romântica
+	homem
+	1950
+
+Bibi Ferreira
+	atriz
+	cantora
+	brasileira
+	brasileiro
+	mulher
+	1900
+
+Billie Holiday
+	cantora
+	compositora
+	norte-americana
+	mulher
+	1900
+
+Blaise Pascal
+	físico
+	matemático
+	filósofo
+	teólogo
+	francês
+	homem
+	1600
+
+Bob Dylan
+	cantor
+	compositor
+	norte-americano
+	homem
+	1900
+
+Bob Marley
+	cantor
+	compositor
+	guitarrista
+	jamaicano
+	homem
+	1900
+
+Boécio
+	filósofo
+	político
+	poeta
+	italiano
+	autor
+	homem
+
+Borges de Medeiros
+	advogado
+	político
+	revolucionário
+	brasileiro
+	homem
+	1800
+
+Boris Johnson
+	político
+	britânico
+	primeiro-ministro
+	homem
+	1950
+
+Brad Pitt
+	ator
+	produtor
+	norte-americano
+	homem
+	1950
+
+Bradley Cooper
+	ator
+	produtor
+	norte-americano
+	homem
+	1950
+
+Bram Stoker
+	escritor
+	autor
+	famosa
+	homem
+	1800
+
+Britney Spears
+	cantora
+	compositora
+	dançarina
+	atriz
+	americana
+	mulher
+	1950
+
+Bruce Lee
+	lutador
+	ator
+	roteirista
+	norte-americano
+	homem
+	1900
+
+Bruce Willis
+	ator
+	produtor
+	norte-americano
+	homem
+	1950
+
+Bruna  Viola
+	cantora
+	compositora
+	violeira
+	brasileira
+	mulher
+	1950
+
+Bruno Mars
+	cantor
+	compositor
+	produtor
+	norte-americano
+	autor
+	homem
+	1950
+
+Buster Keaton
+	ator
+	diretor
+	norte-americano
+	homem
+	1800
+
+Caio Fernando Abreu
+	escritor
+	jornalista
+	dramaturgo
+	brasileiro
+	homem
+	1900
+
+Campos Sales
+	político
+	brasileiro
+	presidente
+	homem
+	1800
+
+Caravaggio
+	pintor
+	italiano
+	revolucionário
+	artista
+	homem
+	1500
+
+Cardeal de Richelieu
+	político
+	francês
+	chefe
+	homem
+	1500
+
+Carl Friedrich Gauss
+	príncipe
+	matemática
+	física
+	homem
+	1700
+
+Carl Sagan
+	cientista
+	astrônomo
+	escritor
+	norte-americano
+	homem
+	1900
+
+Carlinhos Brown
+	músico
+	compositor
+	cantor
+	artista
+	brasileiro
+	homem
+	1950
+
+Carlinhos Maia
+	comediante
+	influencer
+	brasileiro
+	homem
+	1950
+
+Carlos Chagas
+	médico
+	sanitarista
+	pesquisador
+	brasileiro
+	homem
+	1800
+
+Carlos Fuentes
+	escritor
+	mexicano
+	espanhola
+	homem
+	1900
+
+Carlos Gomes
+	compositor
+	brasileiro
+	autor
+	escritor
+	homem
+	1800
+
+Carlos Lamarca
+	guerrilheiro
+	militar
+	brasileiro
+	homem
+	1900
+
+Carlos Marighella
+	guerrilheiro
+	político
+	brasileiro
+	militar
+	homem
+	1900
+
+Carlos Zéfiro
+	desenhista
+	brasileiro
+	autor
+	homem
+	1900
+
+Carmen Miranda
+	cantora
+	atriz
+	dançarina
+	luso-brasileira
+	mulher
+	1900
+
+Cartola
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Casimiro de Abreu
+	poeta
+	brasileiro
+	autor
+	brasileira
+	homem
+	1800
+
+Cassiano Ricardo
+	poeta
+	jornalista
+	advogado
+	brasileiro
+	homem
+	1800
+
+Castelo Branco
+	político
+	militar
+	presidente
+	homem
+	1900
+
+Cazuza
+	cantor
+	compositor
+	brasileiro
+	homem
+	1950
+
+Cecília Meireles
+	poetisa
+	professora
+	jornalista
+	pintora
+	brasileira
+	mulher
+	1900
+
+Celso Blues Boy
+	cantor
+	compositor
+	guitarrista
+	brasileiro
+	homem
+	1950
+
+Charles Chaplin
+	ator
+	dançarino
+	diretor
+	produtor
+	homem
+	1800
+
+Charles de Gaulle
+	general
+	político
+	francês
+	homem
+	1800
+
+Charles Perrault
+	escritor
+	francês
+	autor
+	homem
+	1600
+
+Charles Wright Mills
+	sociólogo
+	pesquisador
+	professor
+	norte-americano
+	autor
+	homem
+	1900
+
+Che Guevara
+	guerrilheiro
+	revolucionário
+	argentino
+	homem
+	1900
+
+Chica da Silva
+	escrava
+	brasileira
+	famosa
+	mineira
+	mulher
+
+Chico Anysio
+	humorista
+	roteirista
+	diretor
+	escritor
+	brasileiro
+	homem
+	1900
+
+Chico Buarque de Holanda
+	músico
+	dramaturgo
+	escritor
+	brasileiro
+	homem
+	1900
+
+Chico Mendes
+	líder
+	sindicalista
+	ativista
+	brasileiro
+	homem
+	1900
+
+Chico Science
+	cantor
+	compositor
+	brasileiro
+	homem
+	1950
+
+Chiquinha Gonzaga
+	compositora
+	pianista
+	regente
+	brasileira
+	mulher
+	1800
+
+Chris Brown
+	cantor
+	dançarino
+	ator
+	norte-americano
+	homem
+	1950
+
+Christian Dior
+	estilista
+	francês
+	fundador
+	homem
+	1900
+
+Chuck Berry
+	cantor
+	compositor
+	guitarrista
+	norte-americano
+	homem
+	1900
+
+Chuck Norris
+	ator
+	norte-americano
+	campeão
+	homem
+	1900
+
+Cícero Dias
+	pintor
+	desenhista
+	ilustrador
+	brasileiro
+	modernista
+	homem
+	1900
+
+Cid Moreira
+	jornalista
+	locutor
+	apresentador
+	brasileiro
+	homem
+	1900
+
+Ciro Gomes
+	político
+	advogado
+	professor
+	brasileiro
+	homem
+	1950
+
+Claude Debussy
+	compositor
+	revolucionário
+	pianista
+	francês
+	mentor
+	criador
+	impressionista
+	homem
+	1800
+
+Claude Lévi-Strauss
+	antropólogo
+	sociólogo
+	francês
+	homem
+	1900
+
+Claudia Leitte
+	cantora
+	compositora
+	brasileira
+	mulher
+	1950
+
+Cleo Pires
+	atriz
+	influencer
+	cantora
+	brasileira
+	mulher
+	1950
+
+Clint Eastwood
+	ator
+	produtor
+	diretor
+	norte-americano
+	homem
+	1900
+
+Clóvis Beviláqua
+	jurista
+	professor
+	historiador
+	brasileiro
+	homem
+	1800
+
+Coelho Neto
+	escritor
+	político
+	professor
+	brasileiro
+	homem
+	1800
+
+Conceição Evaristo
+	professora
+	escritora
+	brasileira
+	mulher
+	1900
+
+Conde de Saint-Simon
+	pensador
+	teórico
+	francês
+	cristão
+	homem
+	1700
+
+Couto de Magalhães
+	escritor
+	folclorista
+	brasileiro
+	homem
+	1800
+
+Cristóvão Colombo
+	navegador
+	genovês
+	comandante
+	espanhola
+	homem
+
+Cruz e Sousa
+	poeta
+	simbolista
+	brasileiro
+	homem
+	1800
+
+Cyro dos Anjos
+	escritor
+	jornalista
+	professor
+	brasileiro
+	homem
+	1900
+
+Cyro Martins
+	escritor
+	neurologista
+	psiquiatra
+	brasileiro
+	homem
+	1900
+
+Daniel Bernoulli
+	matemático
+	físico
+	fisiologista
+	médico
+	professor
+	homem
+	1700
+
+Daniel Gabriel Fahrenheit
+	físico
+	alemão
+	inventor
+	homem
+	1600
+
+Daniel Galera
+	escritor
+	tradutor
+	brasileiro
+	homem
+	1950
+
+Daniel Goleman
+	psicólogo
+	escritor
+	jornalista
+	norte-americano
+	autor
+	homem
+	1900
+
+Daniel Radcliffe
+	ator
+	bruxo
+	escritora
+	inglesa
+	homem
+	1950
+
+Dantas Barreto
+	político
+	militar
+	jornalista
+	romancista
+	teatrólogo
+	brasileiro
+	homem
+	1800
+
+Danuza Leão
+	jornalista
+	escritora
+	brasileira
+	autora
+	mulher
+	1900
+
+Darcy Ribeiro
+	antropólogo
+	sociólogo
+	educador
+	escritor
+	político
+	brasileiro
+	homem
+	1900
+
+David Bowie
+	cantor
+	compositor
+	produtor
+	homem
+	1900
+
+David Hume
+	filósofo
+	historiador
+	diplomata
+	escocês
+	homem
+	1700
+
+David Livingstone
+	missionário
+	explorador
+	escocês
+	africano
+	homem
+	1800
+
+Demi Lovato
+	cantora
+	compositora
+	atriz
+	norte-americana
+	mulher
+	1950
+
+Denis Diderot
+	filósofo
+	escritor
+	tradutor
+	francês
+	homem
+	1700
+
+Dennis Hopper
+	ator
+	cineasta
+	norte-americano
+	homem
+	1900
+
+Denzel Washington
+	ator
+	diretor
+	produtor
+	norte-americano
+	homem
+	1950
+
+Deodoro da Fonseca
+	político
+	militar
+	brasileiro
+	presidente
+	homem
+	1800
+
+Dias Gomes
+	dramaturgo
+	novelista
+	brasileiro
+	autor
+	homem
+	1900
+
+Dilermando Reis
+	violonista
+	compositor
+	brasileiro
+	homem
+	1900
+
+Diogo Antônio Feijó
+	sacerdote
+	político
+	brasileiro
+	homem
+	1700
+
+Diogo Nogueira
+	cantor
+	compositor
+	brasileiro
+	famoso
+	homem
+	1950
+
+Djanira da Motta e Silva
+	pintora
+	desenhista
+	ilustradora
+	brasileira
+	mulher
+	1900
+
+Dom Bosco
+	sacerdote
+	italiano
+	fundador
+	homem
+	1800
+
+Dom João VI
+	rei
+	príncipe
+	regente
+	portuguesa
+	rainha
+	homem
+	1700
+
+Dom Paulo Evaristo Arns
+	franciscano
+	arcebispo
+	cardeal
+	brasileiro
+	homem
+	1900
+
+Donga
+	músico
+	compositor
+	violonista
+	brasileiro
+	homem
+	1950
+
+Donizete Galvão
+	poeta
+	jornalista
+	brasileiro
+	homem
+	1950
+
+Dorina Nowill
+	professora
+	ativista
+	filantropa
+	pedagoga
+	brasileira
+	mulher
+	1900
+
+Doris Day
+	atriz
+	americana
+	cantora
+	mulher
+	1900
+
+Doris Lessing
+	escritora
+	inglesa
+	autora
+	mulher
+	1900
+
+Dorival Caymmi
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Drauzio Varella
+	médico
+	cancerologista
+	pesquisador
+	escritor
+	brasileiro
+	homem
+	1900
+
+Dudu Camargo
+	radialista
+	ator
+	apresentador
+	brasileiro
+	homem
+	1950
+
+Dulce María
+	atriz
+	cantora
+	compositora
+	mexicana
+	mulher
+	1950
+
+Dwayne Johnson
+	ator
+	produtor
+	norte-americano
+	homem
+	1950
+
+Edgar Allan Poe
+	poeta
+	escritor
+	editor
+	norte-americano
+	homem
+	1800
+
+Edgar Degas
+	pintor
+	impressionista
+	francês
+	homem
+	1800
+
+Edir Macedo
+	líder
+	empresário
+	brasileiro
+	fundador
+	homem
+	1900
+
+Eduardo Bueno
+	jornalista
+	escritor
+	tradutor
+	editor
+	brasileiro
+	homem
+	1950
+
+Eduardo Galeano
+	escritor
+	jornalista
+	uruguaio
+	autor
+	homem
+	1900
+
+Eduardo Lages
+	pianista
+	compositor
+	produtor
+	brasileiro
+	homem
+	1900
+
+Edward Snowden
+	analista
+	norte-americano
+	americano
+	homem
+	1950
+
+Elba Ramalho
+	cantora
+	atriz
+	paraibana
+	brasileira
+	mulher
+	1950
+
+Elisa Lispector
+	escritora
+	jornalista
+	brasileira
+	mulher
+	1950
+
+Elke Maravilha
+	atriz
+	apresentadora
+	alemã
+	mulher
+	1900
+
+Elliott Smith
+	artista
+	famoso
+	cantor
+	compositor
+	norte-americano
+	homem
+	1950
+
+Elton John
+	cantor
+	compositor
+	pianista
+	produtor
+	homem
+	1900
+
+Elza Soares
+	cantora
+	compositora
+	brasileira
+	mulher
+	1900
+
+Émile Zola
+	escritor
+	jornalista
+	francês
+	criador
+	mulher
+	1800
+
+Emilia Ferreiro
+	psicóloga
+	pesquisadora
+	escritora
+	argentina
+	mulher
+	1900
+
+Emílio Ribas
+	médico
+	sanitarista
+	brasileiro
+	homem
+	1800
+
+Eminem
+	rapper
+	compositor
+	produtor
+	norte-americano
+	homem
+	1950
+
+Enéas Carneiro
+	político
+	médico
+	cardiologista
+	físico
+	matemático
+	professor
+	escritor
+	brasileiro
+	homem
+	1900
+
+Epitácio Pessoa
+	político
+	brasileiro
+	presidente
+	homem
+	1800
+
+Erasmo Carlos
+	cantor
+	compositor
+	brasileiro
+	homem
+	2000
+
+Erasmo de Roterdã
+	teólogo
+	escritor
+	holandês
+	cristão
+	homem
+	1400
+
+Erich Fromm
+	psicanalista
+	sociólogo
+	pensador
+	alemão
+	homem
+	1900
+
+Erling Haaland
+	jogador
+	norueguesa
+	alemão
+	homem
+	2000
+
+Ernest Rutherford
+	físico
+	químico
+	neozelandês
+	homem
+	1800
+
+Ernesto Nazareth
+	pianista
+	compositor
+	brasileiro
+	homem
+	1800
+
+Erving Goffman
+	sociólogo
+	antropólogo
+	escritor
+	canadense
+	homem
+	1900
+
+Ésquilo
+	dramaturgo
+	grego
+	fundador
+	grega
+	homem
+
+Esther Williams
+	nadadora
+	atriz
+	norte-americana
+	mulher
+	1900
+
+Euclides da Cunha
+	escritor
+	jornalista
+	professor
+	brasileiro
+	autor
+	homem
+	1800
+
+Eugênio Sales
+	cardeal
+	brasileiro
+	arcebispo
+	homem
+	1900
+
+Eva Furnari
+	escritora
+	ilustradora
+	brasileira
+	mulher
+	1900
+
+Evaristo da Veiga
+	jornalista
+	político
+	poeta
+	brasileiro
+	homem
+	1700
+
+Fabrício Carpinejar
+	poeta
+	cronista
+	jornalista
+	apresentador
+	brasileiro
+	homem
+	1950
+
+Fátima Bernardes
+	jornalista
+	brasileira
+	apresentador
+	mulher
+	1950
+
+Federico Fellini
+	cineasta
+	italiano
+	mestre
+	homem
+	1900
+
+Felipe Neto
+	youtuber
+	influencer
+	brasileiro
+	empresário
+	comediante
+	escritor
+	homem
+	1950
+
+Ferdinand von Zeppelin
+	general
+	alemão
+	inventor
+	homem
+	1800
+
+Fernanda Montenegro
+	atriz
+	brasileira
+	primeira-dama
+	mulher
+	1900
+
+Fernanda Young
+	escritora
+	roteirista
+	apresentadora
+	atriz
+	brasileira
+	mulher
+	1950
+
+Fernando de Azevedo
+	educador
+	professor
+	sociólogo
+	brasileiro
+	homem
+	1800
+
+Fernando Haddad
+	político
+	brasileiro
+	advogado
+	professor
+	prefeito
+	homem
+
+Fernando Henrique Cardoso
+	sociólogo
+	professor
+	escritor
+	político
+	brasileiro
+	homem
+	1900
+
+Fernando Meirelles
+	cineasta
+	produtor
+	roteirista
+	brasileiro
+	homem
+	1950
+
+Fernando Sabino
+	escritor
+	jornalista
+	editor
+	brasileiro
+	homem
+	1900
+
+Fernão de Magalhães
+	navegador
+	português
+	capitão
+	homem
+	1400
+
+Fidel Castro
+	revolucionário
+	cubano
+	presidente
+	chefe
+	secretário
+	homem
+	1900
+
+Filippo Brunelleschi
+	arquiteto
+	escultor
+	italiano
+	autor
+	homem
+
+Fiódor Dostoiévski
+	escritor
+	russo
+	autor
+	homem
+	1800
+
+Florbela Espanca
+	poetisa
+	portuguesa
+	autora
+	mulher
+	1800
+
+Florestan Fernandes
+	político
+	sociólogo
+	brasileiro
+	fundador
+	homem
+	1900
+
+Floriano Peixoto
+	político
+	militar
+	brasileiro
+	presidente
+	republicano
+	homem
+	1800
+
+Fra Angelico
+	pintor
+	italiano
+	gótico
+	homem
+	1300
+
+Francis  Drake
+	navegante
+	explorador
+	herói
+	britânica
+	espanhola
+	homem
+
+Francis Ford Coppola
+	produtor
+	roteirista
+	diretor
+	norte-americano
+	homem
+	1900
+
+Francis Scott Fitzgerald
+	escritor
+	norte-americano
+	americana
+	homem
+	1800
+
+Francisco Assis Chateaubriand
+	jornalista
+	empresário
+	político
+	brasileiro
+	homem
+	1800
+
+Francisco Franco
+	general
+	chefe
+	ditador
+	homem
+	1800
+
+Francisco Manoel da Silva
+	compositor
+	professor
+	brasileiro
+	homem
+	1700
+
+Francisco Pessoa de Queiroz
+	empresário
+	jornalista
+	diplomata
+	político
+	brasileiro
+	homem
+	1800
+
+François de La Rochefoucauld
+	escritor
+	moralista
+	pensador
+	francês
+	homem
+	1600
+
+François-René de Chateaubriand
+	escritor
+	diplomata
+	político
+	francês
+	homem
+	1700
+
+Frank Gehry
+	arquiteto
+	canadense
+	norte-americano
+	autor
+	homem
+	1900
+
+Frank Lloyd Wright
+	arquiteto
+	norte-americano
+	autor
+	homem
+	1800
+
+Frans Krajcberg
+	escultor
+	pintor
+	fotógrafo
+	polonês
+	brasileiro
+	homem
+	1900
+
+Franz Boas
+	antropólogo
+	norte-americano
+	alemã
+	homem
+	1800
+
+Franz Liszt
+	músico
+	húngaro
+	pianista
+	compositor
+	homem
+	1800
+
+Fred Astaire
+	ator
+	dançarino
+	coreógrafo
+	cantor
+	norte-americano
+	homem
+	1800
+
+Freddie Mercury
+	músico
+	compositor
+	cantor
+	vocalista
+	britânica
+	homem
+	1900
+
+Frederick Herzberg
+	psicólogo
+	professor
+	norte-americano
+	autor
+	homem
+	1900
+
+Friedrich  Nietzsche
+	filósofo
+	escritor
+	alemão
+	homem
+	1800
+
+Friedrich Engels
+	filósofo
+	político
+	alemão
+	homem
+	1800
+
+Friedrich Schiller
+	dramaturgo
+	poeta
+	filósofo
+	historiador
+	alemão
+	homem
+	1700
+
+Gabi Prado
+	empresária
+	influenciadora
+	brasileira
+	mulher
+	1950
+
+Gabriela Mistral
+	poetisa
+	educadora
+	diplomata
+	chilena
+	mulher
+	1800
+
+Galileu Galilei
+	matemático
+	físico
+	astrônomo
+	filósofo
+	italiano
+	homem
+	1500
+
+Gaspard-Félix Tournachon
+	fotógrafo
+	caricaturista
+	jornalista
+	francês
+	homem
+	1800
+
+Gene Simmons
+	vocalista
+	baixista
+	fundador
+	norte-americano
+	homem
+	1900
+
+Georg Simmel
+	sociólogo
+	filósofo
+	alemão
+	fundador
+	homem
+	1800
+
+Georg Simon Ohm
+	físico
+	matemático
+	alemão
+	homem
+	1700
+
+George Clooney
+	ator
+	diretor
+	produtor
+	roteirista
+	norte-americana
+	homem
+	1950
+
+George Foreman
+	empresário
+	ex-boxeador
+	norte-americano
+	homem
+	1900
+
+George H. W. Bush
+	político
+	norte-americano
+	presidente
+	homem
+	1900
+
+George Orwell
+	escritor
+	jornalista
+	britânico
+	homem
+	1900
+
+George S. Patton
+	militar
+	norte-americano
+	general
+	homem
+	1800
+
+George Sand
+	romancista
+	memorialista
+	francesa
+	homem
+	1800
+
+Georges Méliès
+	cineasta
+	ilusionista
+	francês
+	homem
+	1800
+
+Georgios Papanikolaou
+	médico
+	pesquisador
+	grego
+	homem
+	1800
+
+Gerald Thomas
+	dramaturgo
+	diretor
+	brasileiro
+	homem
+	1950
+
+Geraldo Alckmin
+	político
+	médico
+	professor
+	brasileiro
+	homem
+	1950
+
+Geraldo Vandré
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Giacomo Puccini
+	compositor
+	italiano
+	autor
+	homem
+	1800
+
+Gil Vicente
+	dramaturgo
+	poeta
+	português
+	renascentista
+	homem
+
+Gilberto Freyre
+	sociólogo
+	historiador
+	brasileiro
+	homem
+	1900
+
+Gilmar Mendes
+	advogado
+	professor
+	político
+	brasileiro
+	homem
+	1950
+
+Giordano Bruno
+	filósofo
+	escritor
+	teólogo
+	italiano
+	homem
+
+Giorgio de Chirico
+	pintor
+	grego
+	metafísica
+	homem
+	1800
+
+Giorgio Vasari
+	pintor
+	arquiteto
+	biógrafo
+	italiano
+	homem
+	1500
+
+Gisele Bündchen
+	empresária
+	ativista
+	brasileira
+	mulher
+	1950
+
+Giuseppe Garibaldi
+	militar
+	guerrilheiro
+	italiano
+	homem
+	1800
+
+Goethe
+	escritor
+	alemão
+	autor
+	alemã
+	homem
+	1700
+
+Gonçalves de Magalhães
+	escritor
+	professor
+	político
+	brasileiro
+	homem
+	1800
+
+Gonçalves Dias
+	poeta
+	professor
+	jornalista
+	teatrólogo
+	brasileiro
+	homem
+	1800
+
+Gonzaguinha
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Gore Vidal
+	escritor
+	americano
+	famoso
+	norte-americana
+	homem
+	1900
+
+Gottfried Leibniz
+	filósofo
+	matemático
+	alemão
+	homem
+	1600
+
+Gregor Mendel
+	biólogo
+	monge
+	austríaco
+	homem
+	1800
+
+Gretchen
+	cantora
+	dançarina
+	atriz
+	youtuber
+	brasileira
+	mulher
+	1950
+
+Guerra Junqueiro
+	poeta
+	prosador
+	jornalista
+	político
+	português
+	homem
+	1800
+
+Guilherme Araújo
+	produtor
+	empresário
+	brasileiro
+	mentor
+	homem
+	1900
+
+Guilherme Boulos
+	professor
+	ativista
+	escritor
+	homem
+	1950
+
+Guimarães Júnior
+	poeta
+	romancista
+	teatrólogo
+	diplomata
+	brasileiro
+	homem
+	1800
+
+Gustav Klimt
+	pintor
+	simbolista
+	austríaco
+	líder
+	homem
+	1800
+
+Gustave Courbet
+	pintor
+	francês
+	realista
+	homem
+	1800
+
+Gustave Flaubert
+	escritor
+	francês
+	autor
+	homem
+	1800
+
+Gusttavo Lima
+	cantor
+	compositor
+	brasileiro
+	sertaneja
+	homem
+	1950
+
+Guy Debord
+	escritor
+	francês
+	teórico
+	marxista
+	filósofo
+	cineasta
+	fundador
+	homem
+	1900
+
+Hannah Arendt
+	cientista
+	filósofa
+	alemã
+	mulher
+	1900
+
+Hans Christian Andersen
+	escritor
+	dinamarquês
+	autor
+	homem
+	1800
+
+Harper Lee
+	escritora
+	norte-americana
+	autora
+	homem
+	1900
+
+Harriet Martineau
+	jornalista
+	novelista
+	economista
+	britânica
+	homem
+	1800
+
+Harriet Tubman
+	líder
+	abolicionista
+	norte-americana
+	mulher
+	1900
+
+Hector Babenco
+	cineasta
+	argentino
+	brasileiro
+	homem
+	1900
+
+Heitor dos Prazeres
+	compositor
+	cantor
+	artista
+	brasileiro
+	homem
+	1800
+
+Helen Keller
+	escritora
+	ativista
+	norte-americana
+	mulher
+	1800
+
+Henfil
+	cartunista
+	jornalista
+	escritor
+	brasileiro
+	homem
+	1900
+
+Henri Matisse
+	pintor
+	desenhista
+	gravurista
+	escultor
+	francês
+	homem
+	1800
+
+Henri Paul Hyacinthe Wallon
+	psicólogo
+	filósofo
+	médico
+	político
+	francês
+	homem
+	1800
+
+Henry David Thoreau
+	escritor
+	norte-americano
+	autor
+	homem
+	1800
+
+Henry Ford
+	empresário
+	norte-americano
+	fundador
+	homem
+	1800
+
+Henry Miller
+	escritor
+	norte-americano
+	autor
+	homem
+	1800
+
+Herbert Marcuse
+	sociólogo
+	filósofo
+	alemão
+	homem
+	1800
+
+Hermann Hesse
+	escritor
+	alemão
+	autor
+	homem
+	1800
+
+Hermeto Pascoal
+	compositor
+	instrumentista
+	brasileiro
+	homem
+	1900
+
+Hilda Hilst
+	poetisa
+	cronista
+	dramaturga
+	ficcionista
+	brasileira
+	mulher
+	1900
+
+Hippolyte Taine
+	historiador
+	pensador
+	francês
+	homem
+	1800
+
+Humberto de Campos
+	escritor
+	jornalista
+	político
+	brasileiro
+	homem
+	1800
+
+Humberto Teixeira
+	compositor
+	advogado
+	deputado
+	homem
+	1900
+
+Iberê Camargo
+	pintor
+	desenhista
+	professor
+	brasileiro
+	homem
+	1900
+
+Ignácio de Loyola Brandão
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+Igor Stravinski
+	compositor
+	pianista
+	russo
+	autor
+	homem
+	1800
+
+Immanuel Kant
+	filósofo
+	alemão
+	fundador
+	homem
+	1700
+
+Inezita Barroso
+	cantora
+	atriz
+	apresentadora
+	pesquisadora
+	brasileira
+	mulher
+	1900
+
+Ingrid Betancourt
+	ativista
+	colombiana
+	guerrilheiro
+	terrorista
+	mulher
+	1950
+
+Irmã Dulce
+	religiosa
+	católica
+	brasileira
+	mulher
+	1900
+
+Isaac Newton
+	físico
+	astrônomo
+	matemático
+	homem
+	1600
+
+Isabel Allende
+	escritora
+	jornalista
+	chilena
+	mulher
+	1900
+
+Italo Calvino
+	escritor
+	italiano
+	autor
+	homem
+	1900
+
+Ivan Lins
+	músico
+	compositor
+	cantor
+	brasileira
+	homem
+	1900
+
+Ivan Pavlov
+	fisiologista
+	médico
+	russo
+	homem
+	1800
+
+Ivete Sangalo
+	cantora
+	compositora
+	brasileira
+	mulher
+	1950
+
+J Balvin
+	cantor
+	compositor
+	colombiano
+	latina
+	criador
+	homem
+	1950
+
+J. K. Rowling
+	escritora
+	britânica
+	autora
+	mulher
+	1950
+
+J. R. R. Tolkien
+	escritor
+	filólogo
+	professor
+	autor
+	homem
+	1800
+
+Jackson do Pandeiro
+	instrumentista
+	compositor
+	cantor
+	nordestina
+	homem
+	1900
+
+Jackson Pollock
+	pintor
+	norte-americano
+	artista
+	homem
+	1900
+
+Jacob do Bandolim
+	músico
+	compositor
+	brasileiro
+	brasileira
+	homem
+	1900
+
+Jacques Bossuet
+	bispo
+	teólogo
+	francês
+	homem
+	1600
+
+Jaime I de Aragão
+	conquistador
+	rei
+	conde
+	homem
+	1200
+
+Jair Amorim
+	compositor
+	brasileiro
+	autor
+	homem
+	1900
+
+James Brown
+	cantor
+	compositor
+	produtor
+	norte-americano
+	autor
+	homem
+	1900
+
+James Cameron
+	cineasta
+	produtor
+	roteirista
+	canadense
+	homem
+	1950
+
+James Clerk Maxwell
+	físico
+	matemático
+	escocês
+	homem
+	1800
+
+James Cook
+	navegador
+	cartógrafo
+	capitão
+	inglesa
+	comandante
+	homem
+	1700
+
+James Patterson
+	escritor
+	norte-americano
+	autor
+	homem
+	1900
+
+James Watt
+	engenheiro
+	matemático
+	escocês
+	homem
+	1700
+
+Jane Austen
+	escritora
+	inglesa
+	autora
+	mulher
+	1700
+
+Jane Fonda
+	atriz
+	escritora
+	norte-americana
+	mulher
+	1900
+
+Jean Bodin
+	jurista
+	teórico
+	político
+	francês
+	homem
+
+Jean-Baptiste Debret
+	pintor
+	desenhista
+	professor
+	francês
+	homem
+	1700
+
+Jean-Baptiste Racine
+	dramaturgo
+	poeta
+	francesa
+	homem
+	1600
+
+Jean-Jacques Rousseau
+	filósofo
+	teórico
+	político
+	escritor
+	homem
+	1700
+
+Jean-Michel Basquiat
+	pintor
+	neoexpressionista
+	grafiteiro
+	norte-americano
+	afro-americano
+	homem
+	1950
+
+Jean-Paul Marat
+	líder
+	médico
+	pesquisador
+	homem
+	1700
+
+Jean-Paul Sartre
+	filósofo
+	escritor
+	francês
+	existencialista
+	homem
+	1900
+
+Jeff Bezos
+	empresário
+	norte-americano
+	fundador
+	ceo
+	homem
+	1950
+
+Jeremy Bentham
+	filósofo
+	jurista
+	teórico
+	homem
+	1700
+
+Jerry Lewis
+	ator
+	comediante
+	roteirista
+	produtor
+	diretor
+	norte-americano
+	homem
+	1900
+
+Jessier Quirino
+	poeta
+	compositor
+	brasileiro
+	nordestino
+	homem
+	1950
+
+Jim Morrison
+	cantor
+	compositor
+	poeta
+	norte-americano
+	homem
+	1900
+
+Jimi Hendrix
+	guitarrista
+	cantor
+	compositor
+	norte-americano
+	homem
+	1900
+
+Jô Soares
+	humorista
+	entrevistador
+	escritor
+	dramaturgo
+	diretor
+	artista
+	homem
+	1900
+
+Joan Miró
+	pintor
+	escultor
+	ceramista
+	homem
+	1800
+
+João Alexandre
+	cantor
+	violonista
+	produtor
+	brasileiro
+	homem
+	1950
+
+João Amoêdo
+	empresário
+	político
+	brasileiro
+	homem
+	1950
+
+João Cabral de Melo Neto
+	poeta
+	diplomata
+	brasileiro
+	autor
+	homem
+	1900
+
+João Calvino
+	teólogo
+	líder
+	escritor
+	francês
+	homem
+	1500
+
+João Câmara
+	pintor
+	desenhista
+	artista
+	professor
+	brasileiro
+	homem
+	1900
+
+João do Rio
+	jornalista
+	escritor
+	dramaturgo
+	brasileiro
+	carioca
+	homem
+	1800
+
+João Gilberto
+	cantor
+	compositor
+	violonista
+	brasileiro
+	criador
+	brasileira
+	homem
+	1900
+
+João Ubaldo Ribeiro
+	romancista
+	cronista
+	jornalista
+	tradutor
+	professor
+	brasileiro
+	homem
+	1900
+
+Joaquim Cardoso
+	engenheiro
+	poeta
+	brasileiro
+	homem
+	1800
+
+Joaquim Nabuco
+	político
+	diplomata
+	advogado
+	historiador
+	brasileiro
+	homem
+	1800
+
+Johann Sebastian Bach
+	músico
+	compositor
+	alemão
+	homem
+	1600
+
+Johann Strauss (filho)
+	músico
+	compositor
+	regente
+	austríaco
+	homem
+	1800
+
+Johannes Brahms
+	compositor
+	pianista
+	alemão
+	homem
+	1800
+
+Johannes Kepler
+	matemático
+	astrônomo
+	alemão
+	homem
+	1500
+
+Johannes Vermeer
+	pintor
+	holandês
+	holandesa
+	homem
+	1600
+
+John Dalton
+	químico
+	meteorologista
+	físico
+	homem
+	1700
+
+John Dewey
+	pedagogo
+	filósofo
+	norte-americano
+	homem
+	1800
+
+John F. Kennedy
+	político
+	norte-americano
+	presidente
+	homem
+	1900
+
+John Green
+	romancista
+	vlogger
+	norte-americano
+	autor
+	homem
+	1950
+
+John Lennon
+	músico
+	líder
+	guitarrista
+	homem
+	1900
+
+John Rockefeller
+	magnata
+	norte-americano
+	poderosa
+	homem
+	1800
+
+John Wayne
+	ator
+	produtor
+	norte-americano
+	homem
+	1900
+
+John Wesley
+	anglicano
+	teólogo
+	britânico
+	homem
+	1700
+
+Johnny Depp
+	ator
+	músico
+	produtor
+	diretor
+	norte-americano
+	homem
+	1950
+
+Jonathan Swift
+	escritor
+	poeta
+	prosador
+	homem
+	1600
+
+Jorge Amado
+	escritor
+	brasileiro
+	regionalista
+	homem
+	1900
+
+Jorge Aragão
+	cantor
+	sambista
+	instrumentista
+	compositor
+	brasileiro
+	homem
+	1900
+
+Jorge Ben Jor
+	cantor
+	compositor
+	brasileiro
+	autor
+	homem
+	1900
+
+Jorge Dória
+	ator
+	brasileiro
+	mestre
+	homem
+	1900
+
+Jorge Luís Borges
+	poeta
+	escritor
+	argentino
+	homem
+	1800
+
+Jorge Vercillo
+	cantor
+	compositor
+	violonista
+	brasileiro
+	homem
+	1950
+
+José Américo de Almeida
+	escritor
+	político
+	brasileiro
+	homem
+	1800
+
+José Barbosa da Silva
+	músico
+	compositor
+	brasileiro
+	homem
+	1800
+
+José Bonifácio
+	político
+	mineralogista
+	brasileiro
+	homem
+	1700
+
+José Condé
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+José de Alencar
+	romancista
+	dramaturgo
+	jornalista
+	advogado
+	político
+	brasileiro
+	homem
+	1800
+
+José de Anchieta
+	padre
+	jesuíta
+	brasileira
+	homem
+	1500
+
+José de Paiva Netto
+	líder
+	escritor
+	jornalista
+	radialista
+	brasileiro
+	homem
+	1900
+
+José de San Martín
+	militar
+	argentino
+	líder
+	homem
+	1700
+
+José do Patrocínio
+	abolicionista
+	jornalista
+	escritor
+	brasileiro
+	homem
+	1800
+
+José J. Veiga
+	escritor
+	brasileiro
+	romancista
+	homem
+	1900
+
+José Mariano
+	político
+	líder
+	abolicionista
+	jornalista
+	polemista
+	brasileiro
+	homem
+	1800
+
+José Mauro de Vasconcelos
+	escritor
+	brasileiro
+	autor
+	brasileira
+	homem
+	1900
+
+José Mindlin
+	bibliófilo
+	empresário
+	advogado
+	brasileiro
+	homem
+	1900
+
+José Paulo Paes
+	poeta
+	tradutor
+	brasileiro
+	homem
+	1900
+
+Joseph Haydn
+	compositor
+	austríaco
+	vienense
+	homem
+	1700
+
+Josué de Castro
+	médico
+	pesquisador
+	professor
+	brasileiro
+	homem
+	1900
+
+Joyce Meyer
+	escritora
+	cristã
+	norte-americana
+	mulher
+	1900
+
+Juan Domingo Perón
+	político
+	militar
+	argentino
+	homem
+	1800
+
+Juan Manuel de Rosas
+	político
+	militar
+	argentino
+	homem
+	1700
+
+Juan Manuel Santos
+	ex-presidente
+	advogado
+	economista
+	presidente
+	homem
+	1950
+
+Juarez Machado
+	pintor
+	escultor
+	desenhista
+	caricaturista
+	ilustrador
+	cartunista
+	homem
+	1900
+
+Juca Chaves
+	compositor
+	músico
+	humorista
+	brasileiro
+	famoso
+	homem
+	1900
+
+Jules Henri Fayol
+	engenheiro
+	pesquisador
+	francês
+	criador
+	homem
+	1800
+
+Julio Cortázar
+	escritor
+	argentino
+	mestre
+	mágico
+	homem
+	1900
+
+Júlio Diniz
+	escritor
+	médico
+	português
+	homem
+	1800
+
+Justin Bieber
+	cantor
+	compositor
+	canadense
+	homem
+	1950
+
+Kanye West
+	produtor
+	rapper
+	norte-americano
+	homem
+	1950
+
+Karen Carpenter
+	cantora
+	norte-americana
+	baterista
+	mulher
+	1950
+
+Karl Landsteiner
+	médico
+	biólogo
+	austríaco
+	homem
+	1800
+
+Karl Marx
+	filósofo
+	revolucionário
+	socialista
+	alemão
+	homem
+	1800
+
+Karl Popper
+	filósofo
+	austríaco
+	britânico
+	homem
+	1900
+
+Katy Perry
+	cantora
+	compositora
+	norte-americana
+	autora
+	mulher
+	1950
+
+Keanu Reeves
+	ator
+	cineasta
+	canadense
+	homem
+	1950
+
+Keith Haring
+	artista
+	ativista
+	norte-americano
+	homem
+	1950
+
+Keith Haring
+	desenhista
+	ativista-social
+	norte-americano
+	homem
+	1950
+
+Kell Smith
+	cantora
+	compositora
+	escritora
+	influencer
+	brasileira
+	mulher
+	1950
+
+Kenny Rogers
+	cantor
+	compositor
+	produtor
+	ator
+	empresário
+	norte-americano
+	homem
+	1900
+
+Khalil Gibran
+	filósofo
+	escritor
+	poeta
+	pintor
+	libanês
+	homem
+	1800
+
+Kim Kardashian
+	socialite
+	produtora
+	empresária
+	norte-americana
+	mulher
+	1950
+
+Kim Kataguiri
+	político
+	escritor
+	conferencista
+	ativista
+	brasileiro
+	homem
+	1950
+
+Kurt Cobain
+	cantor
+	compositor
+	músico
+	norte-americano
+	homem
+	1950
+
+Kylian Mbappé
+	jogador
+	francês
+	francesa
+	homem
+	1950
+
+Lady Gaga
+	cantora
+	compositora
+	instrumentista
+	produtora
+	norte-americana
+	mulher
+	1950
+
+Lampião
+	famoso
+	cangaceiro
+	brasileiro
+	homem
+	1800
+
+Larissa Manoela
+	atriz
+	cantora
+	influencer
+	escritora
+	brasileira
+	mulher
+	2000
+
+Laurentino Gomes
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1950
+
+Lázaro Luiz Zamenhof
+	filólogo
+	oftalmologista
+	polonês
+	homem
+	1800
+
+Le Corbusier
+	arquiteto
+	urbanista
+	pintor
+	franco-suíço
+	homem
+	1800
+
+Led Zeppelin
+	inglesa
+	guitarrista
+	músico
+	vocalista
+	baterista
+	baixista
+	tecladista
+	homem
+
+Lenin
+	político
+	revolucionário
+	russo
+	líder
+	presidente
+	socialista
+	homem
+	1800
+
+Leon Tolstói
+	escritor
+	russo
+	autor
+	homem
+	1800
+
+Leon Trotsky
+	revolucionário
+	comunista
+	russo
+	homem
+	1800
+
+Leonardo Boff
+	teólogo
+	escritor
+	professor
+	brasileiro
+	homem
+	1900
+
+Leonel Brizola
+	político
+	brasileiro
+	brasileira
+	homem
+	1900
+
+Leonhard Euler
+	matemático
+	cientista
+	matemática
+	homem
+	1700
+
+Leônidas
+	futebolista
+	técnico
+	brasileiro
+	homem
+	1900
+
+Leslie Nielsen
+	ator
+	comediante
+	canadense
+	homem
+	1900
+
+Lewis Carroll
+	poeta
+	romancista
+	matemático
+	homem
+	1800
+
+Lobão
+	cantor
+	compositor
+	brasileiro
+	homem
+	1950
+
+Lord Byron
+	poeta
+	criador
+	burguesa
+	homem
+	1700
+
+Louis Armstrong
+	cantor
+	trompetista
+	norte-americano
+	homem
+	1900
+
+Louis Pasteur
+	cientista
+	químico
+	bacteriologista
+	francês
+	homem
+	1800
+
+Luan Santana
+	cantor
+	compositor
+	brasileiro
+	romântica
+	sertaneja
+	homem
+	1950
+
+Lucano
+	poeta
+	latino
+	imperador
+	francês
+	homem
+
+Luccas Neto
+	youtuber
+	ator
+	diretor
+	escritor
+	empresário
+	brasileiro
+	homem
+
+Luciana Gimenez
+	atriz
+	apresentadora
+	brasileira
+	mulher
+	1950
+
+Luciano Huck
+	apresentador
+	empresário
+	brasileiro
+	homem
+	1950
+
+Lúcio Cardoso
+	romancista
+	poeta
+	dramaturgo
+	tradutor
+	artista
+	brasileiro
+	homem
+	1900
+
+Lucrécio
+	poeta
+	filósofo
+	latino
+	autor
+	grego
+	homem
+
+Ludwig van Beethoven
+	compositor
+	regente
+	pianista
+	alemão
+	homem
+	1700
+
+Luís Carlos Prestes
+	político
+	militar
+	líder
+	revolucionário
+	brasileiro
+	homem
+	1800
+
+Luís da Câmara Cascudo
+	folclorista
+	historiador
+	professor
+	jornalista
+	brasileiro
+	homem
+	1800
+
+Luiz Carlos Miele
+	produtor
+	ator
+	diretor
+	brasileiro
+	homem
+	2000
+
+Luiz Fux
+	advogado
+	professor
+	ministro
+	presidente
+	homem
+	1950
+
+Luiz Gama
+	líder
+	abolicionista
+	jornalista
+	poeta
+	brasileiro
+	homem
+	1800
+
+Luiz Henrique Mandetta
+	médico
+	político
+	brasileiro
+	homem
+	1950
+
+Lupicínio Rodrigues
+	compositor
+	cantor
+	brasileiro
+	autor
+	homem
+	1900
+
+Luz del Fuego
+	bailarina
+	naturista
+	feminista
+	brasileira
+	mulher
+	1900
+
+Lygia Clark
+	pintora
+	escultora
+	brasileira
+	mulher
+	1900
+
+Machado de Assis
+	escritor
+	brasileiro
+	brasileira
+	homem
+	1800
+
+Madonna
+	cantora
+	atriz
+	produtora
+	norte-americana
+	mulher
+	1950
+
+Madre Teresa de Calcutá
+	missionária
+	católica
+	famosa
+	mulher
+	1900
+
+Mahatma  Gandhi
+	líder
+	pacifista
+	indiano
+	homem
+	1800
+
+Man Ray
+	fotógrafo
+	pintor
+	cineasta
+	norte-americano
+	homem
+	1800
+
+Manabu Mabe
+	pintor
+	ilustrador
+	japonês
+	brasileiro
+	homem
+	1900
+
+Manuel de Abreu
+	médico
+	brasileiro
+	inventor
+	homem
+	1800
+
+Manuel de Araújo Porto Alegre
+	escritor
+	jornalista
+	político
+	pintor
+	caricaturista
+	arquiteto
+	diplomata
+	brasileiro
+	homem
+	1800
+
+Mao Tsé-Tung
+	líder
+	comunista
+	revolucionário
+	chinês
+	homem
+	1800
+
+Maomé
+	profeta
+	muçulmano
+	chefe
+	militar
+	fundador
+	muçulmana
+	árabe
+	homem
+
+Marc Bloch
+	historiador
+	medievalista
+	editor
+	homem
+	1800
+
+Marc Chagall
+	pintor
+	francês
+	russa
+	homem
+	1800
+
+Marcel Duchamp
+	pintor
+	escultor
+	francês
+	norte-americano
+	homem
+	1800
+
+Marcel Mauss
+	sociólogo
+	antropólogo
+	francês
+	homem
+	1800
+
+Marcelo Rezende
+	apresentador
+	brasileiro
+	jornalista
+	homem
+	1950
+
+Marcia Tiburi
+	filósofa
+	escritora
+	professora
+	brasileira
+	mulher
+	1950
+
+Marco Maciel
+	advogado
+	professor
+	político
+	brasileiro
+	homem
+	1900
+
+Marco Túlio Cícero
+	filósofo
+	escritor
+	advogado
+	político
+	homem
+
+Marcos Rey
+	escritor
+	roteirista
+	jornalista
+	dramaturgo
+	brasileiro
+	homem
+	1900
+
+Marechal Rondon
+	militar
+	sertanista
+	brasileiro
+	homem
+	1800
+
+Margaret Hamilton
+	cientista
+	engenheira
+	norte-americana
+	mulher
+	1900
+
+Margot Robbie
+	produtora
+	atriz
+	australiana
+	mulher
+	1950
+
+Marguerite Duras
+	escritora
+	cineasta
+	dramaturga
+	francesa
+	mulher
+	1900
+
+Maria Clara Machado
+	escritora
+	dramaturga
+	atriz
+	brasileira
+	autora
+	mulher
+	1900
+
+Maria Elena Walsh
+	poetisa
+	escritora
+	cantora
+	compositora
+	dramaturga
+	argentina
+	mulher
+	1900
+
+Maria Felix
+	atriz
+	mexicana
+	mexicano
+	mulher
+	1900
+
+Maria Leopoldina da Áustria
+	imperatriz
+	rainha
+	imperador
+	mulher
+	1700
+
+Maria Montessori
+	pedagoga
+	pesquisadora
+	médica
+	italiana
+	mulher
+	1800
+
+Marie Fredriksson
+	cantora
+	compositora
+	sueca
+	famosa
+	mulher
+	1950
+
+Marília Pêra
+	atriz
+	cantora
+	produtora
+	brasileira
+	mulher
+	1900
+
+Marina Colasanti
+	escritora
+	jornalista
+	tradutora
+	brasileira
+	mulher
+	1900
+
+Mário Filho
+	jornalista
+	escritor
+	brasileiro
+	homem
+	1900
+
+Mário Lago
+	compositor
+	ator
+	poeta
+	radialista
+	advogado
+	brasileiro
+	homem
+	1900
+
+Mario Prata
+	escritor
+	dramaturgo
+	novelista
+	brasileiro
+	homem
+	1900
+
+Mário Quintana
+	poeta
+	tradutor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+Mario Sergio Cortella
+	professor
+	escritor
+	filósofo
+	pensador
+	brasileiro
+	homem
+	1950
+
+Mario Vargas Llosa
+	escritor
+	jornalista
+	romancista
+	peruano
+	homem
+	1900
+
+Marisa Monte
+	intérprete
+	compositora
+	produtora
+	mulher
+	1950
+
+Mark Twain
+	escritor
+	norte-americano
+	autor
+	homem
+	1800
+
+Marlon Brando
+	ator
+	diretor
+	norte-americano
+	homem
+	1900
+
+Marquês de Abrantes
+	marquês
+	político
+	brasileiro
+	homem
+	1700
+
+Marquês de La Fayette
+	marquês
+	general
+	francês
+	homem
+	1700
+
+Marquês de Pombal
+	marquês
+	político
+	diplomata
+	português
+	homem
+	1600
+
+Marquês de Sade
+	marquês
+	escritor
+	dramaturgo
+	filósofo
+	francês
+	homem
+	1700
+
+Marques Rebelo
+	escritor
+	brasileiro
+	jornalista
+	romancista
+	cronista
+	novelista
+	autor
+	homem
+	1900
+
+Martha Medeiros
+	escritora
+	jornalista
+	cronista
+	brasileira
+	mulher
+	1950
+
+Martin Heidegger
+	filósofo
+	alemão
+	existencialista
+	homem
+	1800
+
+Martinho da Vila
+	cantor
+	compositor
+	escritor
+	homem
+	1900
+
+Martins Fontes
+	poeta
+	médico
+	brasileiro
+	homem
+	1800
+
+Marvin Minsky
+	cientista
+	matemático
+	norte-americano
+	homem
+	1900
+
+Mary Shelley
+	escritora
+	inglesa
+	autora
+	mulher
+	1700
+
+Maurício de Nassau
+	conde
+	militar
+	holandês
+	homem
+	1600
+
+Mauricio de Sousa
+	cartunista
+	empresário
+	brasileiro
+	homem
+	1900
+
+Mauro Mota
+	poeta
+	jornalista
+	cronista
+	professor
+	brasileiro
+	homem
+	1900
+
+Max Ernst
+	pintor
+	escultor
+	artista
+	alemão
+	homem
+	1800
+
+Max Lucado
+	pastor
+	escritor
+	norte-americano
+	homem
+	1950
+
+Max Weber
+	sociólogo
+	economista
+	alemão
+	homem
+	1800
+
+Maysa
+	cantora
+	compositora
+	brasileira
+	mulher
+	1900
+
+Menotti Del Picchia
+	poeta
+	romancista
+	cronista
+	jornalista
+	advogado
+	político
+	brasileiro
+	homem
+	1800
+
+Mia Couto
+	escritor
+	poeta
+	jornalista
+	moçambicano
+	mulher
+	1950
+
+Michael Jackson
+	cantor
+	compositor
+	dançarino
+	norte-americano
+	homem
+	1950
+
+Michael Jordan
+	ex-jogador
+	norte-americano
+	armador
+	homem
+	1950
+
+Michel de Montaigne
+	escritor
+	jurista
+	político
+	filósofo
+	francês
+	inventor
+	homem
+	1500
+
+Michel Legrand
+	músico
+	francês
+	pianista
+	compositor
+	homem
+	1900
+
+Michel Teló
+	cantor
+	compositor
+	brasileiro
+	multi-instrumentista
+	homem
+	1950
+
+Michelangelo
+	pintor
+	escultor
+	arquiteto
+	italiano
+	homem
+	1400
+
+Mick Jagger
+	cantor
+	compositor
+	ator
+	produtor
+	britânico
+	homem
+	1900
+
+Miguel de Cervantes
+	escritor
+	dramaturgo
+	poeta
+	autor
+	homem
+	1500
+
+Miguel Reale
+	jurista
+	filósofo
+	professor
+	brasileiro
+	homem
+	1900
+
+Mikhail Bakunin
+	teórico
+	político
+	revolucionário
+	russo
+	homem
+	1800
+
+Milan Kundera
+	escritor
+	tcheco
+	francês
+	homem
+	1900
+
+Mileide Mihaile
+	empresária
+	influencer
+	bailarina
+	mulher
+	1950
+
+Miley Cyrus
+	cantora
+	compositora
+	atriz
+	norte-americana
+	mulher
+	1950
+
+Millôr Fernandes
+	desenhista
+	humorista
+	tradutor
+	escritor
+	dramaturgo
+	brasileiro
+	homem
+	1900
+
+Milton Nascimento
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Mitt Romney
+	político
+	empresário
+	norte-americano
+	homem
+	1900
+
+Miúcha
+	cantora
+	compositora
+	brasileira
+	mulher
+	1900
+
+Moacyr Scliar
+	escritor
+	médico
+	brasileiro
+	homem
+	1900
+
+Monteiro Lobato
+	escritor
+	editor
+	brasileiro
+	homem
+	1800
+
+Montesquieu
+	filósofo
+	escritor
+	francês
+	homem
+	1600
+
+Morgan Freeman
+	ator
+	produtor
+	diretor
+	narrador
+	americano
+	homem
+	1900
+
+Murillo La Greca
+	pintor
+	escultor
+	professor
+	brasileiro
+	homem
+	1800
+
+Mussum
+	humorista
+	ator
+	sambista
+	brasileiro
+	homem
+	1900
+
+Naná Vasconcelos
+	músico
+	brasileiro
+	percussionista
+	americana
+	mulher
+	1900
+
+Nara Almeida
+	brasileira
+	influencer
+	instagrammer
+	mulher
+	1950
+
+Nara Leão
+	cantora
+	artista
+	atriz
+	brasileira
+	musa
+	mulher
+	1900
+
+Nelson Motta
+	jornalista
+	compositor
+	produtor
+	apresentador
+	escritor
+	brasileiro
+	homem
+	1900
+
+Nelson Rodrigues
+	escritor
+	jornalista
+	dramaturgo
+	brasileiro
+	homem
+	1900
+
+Niccolò Paganini
+	compositor
+	violonista
+	italiano
+	romântica
+	homem
+	1700
+
+Nicolás Maduro
+	político
+	venezuelano
+	presidente
+	homem
+	1950
+
+Nicolas Poussin
+	pintor
+	francês
+	francesa
+	homem
+	1600
+
+Nicolau Copérnico
+	astrônomo
+	matemático
+	médico
+	polonês
+	homem
+	1400
+
+Nicolau Maquiavel
+	filósofo
+	político
+	historiador
+	escritor
+	italiano
+	autor
+	homem
+	1400
+
+Nicole Bahls
+	apresentadora
+	atriz
+	brasileira
+	mulher
+	1950
+
+Nicole Kidman
+	atriz
+	produtora
+	norte-americana
+	mulher
+	1950
+
+Nikola Tesla
+	inventor
+	austro-húngaro
+	física
+	homem
+	1800
+
+Nina Simone
+	pianista
+	cantora
+	compositora
+	norte-americana
+	mulher
+	1900
+
+Noam Chomsky
+	professor
+	ativista
+	político
+	norte-americano
+	homem
+	1900
+
+Noel Rosa
+	compositor
+	cantor
+	violonista
+	brasileiro
+	homem
+	1900
+
+Norberto Bobbio
+	filósofo
+	militante
+	político
+	professor
+	italiano
+	homem
+	1900
+
+Nostradamus
+	astrólogo
+	vidente
+	médico
+	francês
+	homem
+	1500
+
+Octávio Paz
+	poeta
+	pensador
+	mexicano
+	homem
+	1900
+
+Olavo Bilac
+	poeta
+	jornalista
+	brasileiro
+	homem
+	1800
+
+Olavo de Carvalho
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+Olga Benário
+	militante
+	comunista
+	alemã
+	mulher
+	1900
+
+Olga Tokarczuk
+	escritora
+	polonesa
+	autora
+	mulher
+	1950
+
+Oliver Cromwell
+	militar
+	ditador
+	líder
+	homem
+	1500
+
+Orson Welles
+	diretor
+	produtor
+	roteirista
+	ator
+	norte-americano
+	homem
+	1900
+
+Oscar Wilde
+	escritor
+	autor
+	inglesa
+	homem
+	1800
+
+Osho
+	líder
+	indiano
+	criador
+	homem
+	1900
+
+Osório
+	militar
+	político
+	brasileiro
+	homem
+	1800
+
+Osvaldo Aranha
+	político
+	diplomata
+	advogado
+	brasileiro
+	homem
+	1800
+
+Oswald de Andrade
+	escritor
+	dramaturgo
+	brasileiro
+	homem
+	1800
+
+Otto Lara Resende
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+Pablo Escobar
+	narcotraficante
+	colombiano
+	chefe
+	criminoso
+	homem
+	1900
+
+Pablo Neruda
+	poeta
+	chileno
+	castelhana
+	homem
+	1900
+
+Padre Antônio Vieira
+	escritor
+	orador
+	português
+	portuguesa
+	homem
+	1600
+
+Padre Manuel da Nóbrega
+	missionário
+	jesuíta
+	português
+	chefe
+	homem
+	1500
+
+Padre Quevedo
+	padre
+	jesuíta
+	parapsicólogo
+	professor
+	homem
+	1900
+
+Pagu
+	escritora
+	jornalista
+	produtora
+	militante
+	brasileira
+	mulher
+	1900
+
+Paracelso
+	médico
+	alquimista
+	filósofo
+	homem
+	1400
+
+Patativa do Assaré
+	poeta
+	repentista
+	brasileiro
+	nordestina
+	homem
+	1900
+
+Patrícia Poeta
+	jornalista
+	apresentadora
+	brasileira
+	mulher
+	1950
+
+Paul Cézanne
+	pintor
+	pós-impressionista
+	francês
+	homem
+	1800
+
+Paul Gauguin
+	pintor
+	francês
+	pós-impressionista
+	homem
+	1800
+
+Paul Klee
+	pintor
+	alemão
+	expressionista
+	homem
+	1800
+
+Paul McCartney
+	cantor
+	compositor
+	britânica
+	homem
+	1900
+
+Paula Fernandes
+	cantora
+	compositora
+	brasileira
+	mulher
+	1950
+
+Paulinho da Viola
+	cantor
+	compositor
+	violonista
+	brasileiro
+	homem
+	1900
+
+Paulo Cavalcanti
+	político
+	promotor
+	jornalista
+	memorialista
+	brasileiro
+	homem
+	1900
+
+Paulo César Pinheiro
+	compositor
+	letrista
+	poeta
+	escritor
+	brasileiro
+	homem
+	1900
+
+Paulo Coelho
+	escritor
+	brasileiro
+	autor
+	policial
+	homem
+	1900
+
+Paulo Freire
+	educador
+	brasileiro
+	criador
+	homem
+	1900
+
+Paulo Gustavo
+	ator
+	humorista
+	apresentador
+	brasileiro
+	homem
+	1950
+
+Paulo Leminski
+	poeta
+	escritor
+	tradutor
+	professor
+	brasileiro
+	homem
+	1900
+
+Paulo Mendes Campos
+	escritor
+	jornalista
+	poeta
+	brasileiro
+	homem
+
+Pedro Álvares Cabral
+	navegador
+	explorador
+	português
+	portuguesa
+	famosa
+	homem
+
+Pedro Bial
+	jornalista
+	escritor
+	apresentador
+	brasileiro
+	homem
+	1950
+
+Pedro Cardoso
+	ator
+	redator
+	roteirista
+	humorista
+	brasileiro
+	homem
+	1950
+
+Pedro Nava
+	médico
+	escritor
+	poeta
+	memorialista
+	brasileiro
+	homem
+	1900
+
+Pero Vaz de Caminha
+	escrivão
+	português
+	autor
+	homem
+	1500
+
+Peter Drucker
+	consultor
+	analista
+	professor
+	jornalista
+	escritor
+	austríaco
+	homem
+	1900
+
+Pierre Bayle
+	filósofo
+	escritor
+	francês
+	religiosa
+	autor
+	homem
+	1600
+
+Pierre Bourdieu
+	sociólogo
+	pensador
+	francês
+	autor
+	homem
+	1900
+
+Pierre Simon Laplace
+	matemático
+	astrônomo
+	físico
+	francês
+	homem
+	1700
+
+Pierre Verger
+	fotógrafo
+	etnólogo
+	antropólogo
+	pesquisador
+	francês
+	homem
+	1900
+
+Piet Mondrian
+	pintor
+	holandês
+	poderoso
+	homem
+	1800
+
+Pitty
+	cantora
+	compositora
+	multi-instrumentista
+	produtora
+	escritora
+	brasileira
+	mulher
+	1950
+
+Pixinguinha
+	músico
+	brasileiro
+	autor
+	homem
+	1800
+
+Plínio Marcos
+	escritor
+	ator
+	teatrólogo
+	brasileiro
+	homem
+	1900
+
+Plínio o Jovem
+	escritor
+	orador
+	jurista
+	político
+	governador
+	homem
+
+Plínio Salgado
+	político
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1800
+
+Plutarco
+	historiador
+	filósofo
+	prosador
+	grego
+	autor
+	homem
+
+Príncipe Philip, Duque de Edimburgo
+	duque
+	príncipe
+	rainha
+	monarca
+	homem
+	1900
+
+Príncipe William
+	príncipe
+	rainha
+	britânico
+	homem
+	1950
+
+Projota
+	rapper
+	compositor
+	produtor
+	brasileiro
+	homem
+	1950
+
+Quentin Tarantino
+	roteirista
+	diretor
+	norte-americano
+	homem
+	1950
+
+Quino
+	cartunista
+	humorista
+	argentino
+	autor
+	homem
+	1900
+
+Quintino Bocaiúva
+	político
+	jornalista
+	brasileiro
+	republicano
+	homem
+	1800
+
+Ralph Waldo Emerson
+	escritor
+	poeta
+	filósofo
+	norte-americano
+	homem
+	1800
+
+Ramalho Ortigão
+	escritor
+	jornalista
+	português
+	homem
+	1800
+
+Raul Bopp
+	poeta
+	cronista
+	jornalista
+	diplomata
+	brasileiro
+	homem
+	1800
+
+Raul Seixas
+	cantor
+	compositor
+	guitarrista
+	produtor
+	brasileiro
+	homem
+	1900
+
+Ray Charles
+	pianista
+	cantor
+	compositor
+	norte-americano
+	homem
+	1900
+
+Regina Casé
+	atriz
+	comediante
+	apresentadora
+	brasileira
+	mulher
+	1950
+
+Rembrandt
+	pintor
+	desenhista
+	holandês
+	homem
+	1600
+
+Renato Aragão
+	humorista
+	ator
+	cineasta
+	brasileiro
+	homem
+	1900
+
+Renato Russo
+	cantor
+	compositor
+	brasileiro
+	fundador
+	vocalista
+	homem
+	1950
+
+René Descartes
+	filósofo
+	físico
+	matemático
+	francês
+	homem
+	1500
+
+René Girard
+	pensador
+	historiador
+	filólogo
+	francês
+	homem
+	1900
+
+Ribeiro Couto
+	escritor
+	jornalista
+	promotor
+	diplomata
+	brasileiro
+	homem
+	1800
+
+Richarlison
+	jogador
+	brasileiro
+	centroavante
+	homem
+	1950
+
+Rihanna
+	cantora
+	produtora
+	atriz
+	dançarina
+	designer
+	mulher
+	1950
+
+Ringo Starr
+	músico
+	britânico
+	cantor
+	compositor
+	ator
+	diretor
+	baterista
+	homem
+	1900
+
+Rita Lee
+	cantora
+	compositora
+	brasileira
+	mulher
+	1900
+
+Robert Musil
+	escritor
+	austríaco
+	autor
+	burguesa
+	austro-húngaro
+	homem
+	1800
+
+Robert Pattinson
+	ator
+	músico
+	atriz
+	homem
+	1950
+
+Roberta Flack
+	cantora
+	compositora
+	pianista
+	norte-americana
+	mulher
+	1900
+
+Roberto Campos
+	economista
+	diplomata
+	político
+	escritor
+	brasileiro
+	homem
+	1900
+
+Roberto Carlos
+	cantor
+	compositor
+	brasileiro
+	romântica
+	homem
+	1900
+
+Roberto Gómez Bolaños
+	humorista
+	mexicano
+	escritor
+	ator
+	produtor
+	homem
+	1900
+
+Roberto Justus
+	empresário
+	publicitário
+	brasileiro
+	homem
+	1950
+
+Roberto Marinho
+	empresário
+	brasileiro
+	presidente
+	homem
+	1900
+
+Robespierre
+	político
+	revolucionário
+	francês
+	homem
+	1700
+
+Rodrigo Melo Franco
+	advogado
+	jornalista
+	escritor
+	brasileiro
+	homem
+	1800
+
+Roger Waters
+	famoso
+	músico
+	cantor
+	homem
+	1900
+
+Rolando Boldrin
+	brasileira
+	ator
+	compositor
+	cantor
+	apresentador
+	homem
+	1900
+
+Romero Britto
+	pintor
+	escultor
+	brasileiro
+	famoso
+	homem
+	1950
+
+Ronald Golias
+	humorista
+	brasileiro
+	brasileira
+	homem
+	1900
+
+Ronaldo Bôscoli
+	compositor
+	produtor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+Ronnie Von
+	apresentador
+	cantor
+	compositor
+	empresário
+	brasileiro
+	homem
+	1900
+
+Rosa Luxemburgo
+	revolucionária
+	marxista
+	polonesa
+	alemã
+	mulher
+	1800
+
+Rubem Alves
+	teólogo
+	educador
+	tradutor
+	psicanalista
+	escritor
+	brasileiro
+	homem
+	1900
+
+Rubem Braga
+	escritor
+	jornalista
+	brasileiro
+	homem
+	1900
+
+Rubem Valentim
+	artista
+	professor
+	brasileiro
+	mestre
+	homem
+	1950
+
+Rui Barbosa
+	político
+	diplomata
+	advogado
+	jurista
+	brasileiro
+	homem
+	1800
+
+Sabrina Sato
+	apresentadora
+	atriz
+	youtuber
+	brasileira
+	mulher
+	1950
+
+Salvador Allende
+	político
+	chileno
+	presidente
+	socialista
+	homem
+	1900
+
+Samuel Beckett
+	dramaturgo
+	romancista
+	poeta
+	inglesa
+	francesa
+	homem
+	1900
+
+Sandy
+	cantora
+	compositora
+	atriz
+	brasileira
+	mulher
+	1950
+
+Santa Hildegarda de Bingen
+	musicista
+	naturalista
+	médica
+	poetisa
+	escritora
+	alemã
+	mulher
+
+Santo Afonso Maria de Ligório
+	bispo
+	escritor
+	poeta
+	italiano
+	homem
+	1600
+
+Santo Agostinho
+	filósofo
+	escritor
+	bispo
+	teólogo
+	cristão
+	romana
+	homem
+	300
+
+Santo Inácio de Loyola
+	padre
+	jesuíta
+	religiosa
+	católica
+	homem
+	1400
+
+Santos Dumont
+	inventor
+	aeronauta
+	brasileiro
+	homem
+	1800
+
+Scarlett Johansson
+	atriz
+	cantora
+	compositora
+	norte-americana
+	mulher
+	1950
+
+Sean Connery
+	ator
+	produtor
+	britânico
+	homem
+	1900
+
+Selena Gomez
+	atriz
+	cantora
+	compositora
+	norte-americana
+	mulher
+	1950
+
+Seu Jorge
+	cantor
+	compositor
+	instrumentista
+	ator
+	brasileiro
+	homem
+	1950
+
+Shakira
+	cantora
+	compositora
+	colombiana
+	latino
+	sul-americana
+	mulher
+	1950
+
+Shawn Mendes
+	cantor
+	compositor
+	canadense
+	homem
+	1950
+
+Shirley Temple
+	atriz
+	dançarina
+	cantora
+	norte-americana
+	mulher
+	1900
+
+Sidney Poitier
+	ator
+	diretor
+	produtor
+	diplomata
+	norte-americano
+	homem
+	1900
+
+Sidney Sheldon
+	escritor
+	roteirista
+	norte-americano
+	homem
+	1900
+
+Sigmund Freud
+	médico
+	neurologista
+	psicanalista
+	austríaco
+	homem
+	1800
+
+Sílvio Botelho
+	artista
+	brasileiro
+	criador
+	homem
+	1950
+
+Silvio de Abreu
+	autor
+	diretor
+	roteirista
+	brasileiro
+	homem
+	1900
+
+Sílvio Romero
+	escritor
+	professor
+	político
+	brasileiro
+	homem
+	1800
+
+Sílvio Santos
+	apresentador
+	empresário
+	brasileiro
+	homem
+	1900
+
+Simón Bolívar
+	líder
+	político
+	militar
+	venezuelano
+	chefe
+	homem
+	1700
+
+Simone de Beauvoir
+	escritora
+	francesa
+	filósofa
+	existencialista
+	memorialista
+	feminista
+	mulher
+	1900
+
+Simone Tebet
+	professora
+	advogada
+	brasileira
+	mulher
+	1950
+
+Siron Franco
+	pintor
+	escultor
+	ilustrador
+	brasileiro
+	homem
+	1900
+
+Smith Wigglesworth
+	pastor
+	escritor
+	pregador
+	cristã
+	homem
+	1800
+
+Stalin
+	político
+	soviético
+	líder
+	homem
+	1800
+
+Stan Lee
+	editor
+	roteirista
+	empresário
+	norte-americano
+	homem
+	1900
+
+Stanislaw Ponte Preta
+	escritor
+	cronista
+	jornalista
+	radialista
+	brasileiro
+	homem
+	1900
+
+Stella Miranda
+	atriz
+	jornalista
+	brasileira
+	mulher
+	1950
+
+Stephen  Curry
+	jogador
+	norte-americano
+	armador
+	homem
+	1950
+
+Stephen Hawking
+	físico
+	celebridade
+	física
+	homem
+	1900
+
+Stephen King
+	escritor
+	americano
+	autor
+	homem
+	1900
+
+Steven Spielberg
+	diretor
+	produtor
+	roteirista
+	norte-americano
+	homem
+	1900
+
+Stevie Wonder
+	cantor
+	compositor
+	norte-americano
+	homem
+	1950
+
+Stieg Larsson
+	jornalista
+	escritor
+	sueco
+	homem
+	1950
+
+Sun Tzu
+	general
+	estrategista
+	filósofo
+	chinês
+	homem
+
+T. S. Eliot
+	poeta
+	dramaturgo
+	norte-americano
+	homem
+	1800
+
+Talcott Parsons
+	sociólogo
+	norte-americano
+	fundamentalista
+	homem
+	1900
+
+Tales de Mileto
+	filósofo
+	matemático
+	astrônomo
+	grego
+	grega
+	homem
+
+Tarsila do Amaral
+	pintora
+	desenhista
+	brasileira
+	mulher
+	1800
+
+Tatiana Belinky
+	escritora
+	roteirista
+	tradutora
+	mulher
+	1900
+
+Teófilo Dias
+	poeta
+	jornalista
+	advogado
+	político
+	brasileiro
+	homem
+	1800
+
+Thalita Rebouças
+	escritora
+	jornalista
+	brasileira
+	mulher
+	1950
+
+Theodor Adorno
+	filósofo
+	sociólogo
+	alemão
+	judaica
+	cantora
+	descendente
+	homem
+	1900
+
+Thiago de Mello
+	poeta
+	tradutor
+	brasileiro
+	homem
+	1900
+
+Thomas Bulfinch
+	escritor
+	americano
+	famoso
+	homem
+	1700
+
+Thomas Hobbes
+	teórico
+	político
+	filósofo
+	homem
+	1500
+
+Thomas Kuhn
+	físico
+	norte-americano
+	estudioso
+	homem
+	1900
+
+Thomas Malthus
+	economista
+	sociólogo
+	anglicano
+	homem
+	1700
+
+Thomas More
+	político
+	diplomata
+	chanceler
+	homem
+	1400
+
+Tim Burton
+	cineasta
+	norte-americano
+	autor
+	homem
+	1950
+
+Tim Maia
+	cantor
+	compositor
+	brasileiro
+	homem
+	1900
+
+Tobias Barreto
+	filósofo
+	escritor
+	jurista
+	brasileiro
+	homem
+	1800
+
+Tom Hanks
+	ator
+	roteirista
+	diretor
+	norte-americano
+	homem
+	1950
+
+Tom Holland
+	ator
+	dançarino
+	britânico
+	homem
+	1950
+
+Tom Zé
+	cantor
+	compositor
+	performer
+	escritor
+	brasileiro
+	homem
+	1900
+
+Tomie Ohtake
+	pintora
+	escultora
+	japonesa
+	brasileira
+	mulher
+	1900
+
+Toni Morrison
+	escritora
+	editora
+	professora
+	norte-americana
+	homem
+	1900
+
+Toquinho
+	cantor
+	compositor
+	violonista
+	brasileiro
+	homem
+	1900
+
+Torquato Neto
+	jornalista
+	compositor
+	cineasta
+	ator
+	brasileiro
+	homem
+	1900
+
+Torricelli
+	físico
+	matemático
+	italiano
+	homem
+	1600
+
+Toulouse-Lautrec
+	pintor
+	pós-impressionista
+	desenhista
+	francês
+	famoso
+	homem
+	1800
+
+Truman Capote
+	escritor
+	roteirista
+	dramaturgo
+	norte-americano
+	homem
+	1900
+
+Ulisses Tavares
+	poeta
+	escritor
+	professor
+	publicitário
+	dramaturgo
+	compositor
+	roteirista
+	brasileiro
+	homem
+	1950
+
+Umberto Eco
+	escritor
+	professor
+	filósofo
+	italiano
+	homem
+	1900
+
+Usain Bolt
+	atleta
+	jamaicano
+	velocista
+	homem
+	1950
+
+Usher
+	cantor
+	dançarino
+	americano
+	homem
+	1950
+
+Vasco da Gama
+	navegador
+	português
+	comandante
+	produtor
+	homem
+
+Vicente de Carvalho
+	poeta
+	jornalista
+	advogado
+	político
+	brasileiro
+	homem
+	1800
+
+Victor Brecheret
+	escultor
+	ítalo-brasileiro
+	brasileira
+	homem
+	1800
+
+Victor Civita
+	editor
+	empresário
+	brasileiro
+	fundador
+	homem
+	1900
+
+Victor Hugo
+	poeta
+	dramaturgo
+	francês
+	homem
+	1800
+
+Victor Meirelles
+	pintor
+	professor
+	brasileira
+	homem
+	1800
+
+Vik Muniz
+	artista
+	brasileiro
+	fotógrafo
+	pintor
+	mulher
+	1950
+
+Vilfredo Pareto
+	sociólogo
+	teórico
+	político
+	economista
+	italiano
+	homem
+	1800
+
+Vinícius Júnior
+	jogador
+	brasileiro
+	atacante
+	ponta-esquerda
+	homem
+	2000
+
+Virgínia Woolf
+	escritora
+	editora
+	inglesa
+	mulher
+	1800
+
+Visconde de Cairu
+	político
+	publicista
+	jurista
+	brasileiro
+	homem
+	1700
+
+Visconde de Taunay
+	escritor
+	militar
+	político
+	brasileiro
+	homem
+	1800
+
+Vital Brazil
+	médico
+	sanitarista
+	pesquisador
+	brasileiro
+	homem
+	1800
+
+Viviane Araújo
+	atriz
+	dançarina
+	brasileira
+	mulher
+	1950
+
+Vladimir Maiakvoski
+	poeta
+	dramaturgo
+	russo
+	homem
+	1800
+
+Vladimir Nabokov
+	escritor
+	russo
+	americano
+	autor
+	homem
+	1800
+
+Voltaire
+	filósofo
+	escritor
+	francês
+	homem
+	1600
+
+W. H. Auden
+	poeta
+	dramaturgo
+	norte-americano
+	homem
+	1900
+
+Walcyr Carrasco
+	escritor
+	dramaturgo
+	roteirista
+	brasileiro
+	autor
+	homem
+	1950
+
+Walmor Chagas
+	ator
+	diretor
+	produtor
+	brasileiro
+	homem
+	1900
+
+Walt Whitman
+	poeta
+	jornalista
+	norte-americano
+	homem
+	1800
+
+Walter Benjamin
+	filósofo
+	tradutor
+	alemão
+	homem
+	1800
+
+Whindersson Nunes
+	comediante
+	youtuber
+	brasileiro
+	homem
+	1950
+
+Wilhelm Dilthey
+	filósofo
+	historicista
+	alemão
+	homem
+	1800
+
+Wilhelm Reich
+	psiquiatra
+	psicanalista
+	austríaco
+	homem
+	1800
+
+Will Smith
+	ator
+	rapper
+	produtor
+	norte-americano
+	homem
+	1950
+
+William Blake
+	artista
+	poeta
+	romântico
+	homem
+	1700
+
+William Bonner
+	jornalista
+	publicitário
+	apresentador
+	brasileiro
+	homem
+	1950
+
+William Gilbert
+	físico
+	pesquisador
+	médico
+	homem
+	1500
+
+William James
+	filósofo
+	psicólogo
+	norte-americano
+	homem
+	1800
+
+Willie Nelson
+	cantor
+	compositor
+	norte-americano
+	homem
+	1900
+
+Wolf Maya
+	ator
+	diretor
+	brasileiro
+	homem
+	1950
+
+Wolfgang Amadeus Mozart
+	músico
+	compositor
+	austríaco
+	erudita
+	homem
+	1700
+
+Woody Allen
+	cineasta
+	ator
+	escritor
+	músico
+	norte-americano
+	autor
+	homem
+	1900
+
+Xenofonte
+	historiador
+	filósofo
+	general
+	grego
+	homem
+
+Xuxa Meneghel
+	apresentadora
+	cantora
+	empresária
+	brasileira
+	mulher
+	1950
+
+Yoko Ono
+	artista
+	vanguardista
+	cantora
+	cineasta
+	japonesa
+	mulher
+	1900
+
+Yudi Tamashiro
+	apresentador
+	cantor
+	dançarino
+	brasileiro
+	homem
+	1950
+
+Yuval Noah Harari
+	historiador
+	professor
+	escritor
+	pensador
+	israelense
+	homem
+	1950
+
+Zagallo
+	ex-jogador
+	ex-técnico
+	brasileiro
+	homem
+	1900
+
+Zé Dantas
+	compositor
+	poeta
+	folclorista
+	brasileiro
+	homem
+	1900
+
+Zé Ramalho
+	cantor
+	compositor
+	brasileiro
+	nordestina
+	homem
+	1900
+
+Zeca Pagodinho
+	cantor
+	compositor
+	brasileiro
+	homem
+	1950
+
+Zendaya
+	atriz
+	norte-americana
+	hollywoodiano
+	mulher
+	1950
+
+Zilda Arns
+	médica
+	pediatra
+	sanitarista
+	mulher
+	1900
+
+Ziraldo
+	cartunista
+	desenhista
+	jornalista
+	cronista
+	chargista
+	pintor
+	dramaturgo
+	brasileiro
+	homem
+	1900
+
+Zygmunt Bauman
+	sociólogo
+	pensador
+	professor
+	escritor
+	polonês
+	homem
+	1900
+
